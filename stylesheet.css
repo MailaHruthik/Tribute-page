@@ -1,0 +1,29 @@
+* {
+    background-color:#F2EFEE;
+ }
+ h1 {
+   font-family: Copperplate Gothic Light,Serif;
+   font-size: 46px;
+   text-align:center;
+     }
+ h2 {
+   font-family: Copperplate Gothic Light, Serif;
+   text-align:center;
+   font-size: 36px;
+   color:#911423;
+ }
+ p {
+   font-family: Copperplate Gothic Light;
+   font-size: 16px;
+   text-align:center;
+ }
+ ul {
+   font-family: Copperplate Gothic Light;
+   font-size: 16px;
+   text-align:left;
+   text-indent:100px;
+ }
+ div {
+   text-align:center;
+ }
+ 
